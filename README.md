@@ -13,4 +13,4 @@ A mod tartalma:
 
 *Contents:*
 - ***Fixes:** Improved fonts (added the Ő/Ű characters) courtesy of Holy Inquisitor.*
-- ***Translated/subtitled graphics:** beer emblems, signs, banners, posters, tattoos, Dotty's post-it note, the space key's graphic, credit/XP-graphics, seasonal logos, *Miners' Manual* logo, and lots more!*
+- ***Translated/subtitled graphics:** beer emblems, signs, banners, posters, tattoos, Dotty's post-it note, the space key's graphic, credit/XP-graphics, seasonal logos,* Miners' Manual *logo, and lots more!*
