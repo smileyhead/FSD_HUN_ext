@@ -1,0 +1,50 @@
+Materials[3] =
+{
+    Materials[0] = MaterialInstanceConstant'FSD/Content/Art/Environments/SpaceRig/Materials/M_SpaceRig_Metal06_LS.M_SpaceRig_Metal06_LS'
+    Materials[1] = MaterialInstanceConstant'FSD/Content/Art/Environments/SpaceRig/Materials/M_SpaceRig_Light01.M_SpaceRig_Light01'
+    Materials[2] = MaterialInstanceConstant'FSD/Content/Art/Environments/SpaceRig/Materials/Barrels/M_SpaceRig_BarrelRim.M_SpaceRig_BarrelRim'
+}
+SourceModels[0] = {}
+StaticMaterials[3] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'FSD/Content/Art/Environments/SpaceRig/Materials/M_SpaceRig_Metal06_LS.M_SpaceRig_Metal06_LS'
+        MaterialSlotName = M_Drone_Metal01
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 174.183, 231.923, 0, 0 }
+        }
+    }
+    StaticMaterials[1] =
+    {
+        MaterialInterface = MaterialInstanceConstant'FSD/Content/Art/Environments/SpaceRig/Materials/M_SpaceRig_Light01.M_SpaceRig_Light01'
+        MaterialSlotName = M_Drone_Metal02
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 172.557, 229.782, 0, 0 }
+        }
+    }
+    StaticMaterials[2] =
+    {
+        MaterialInterface = MaterialInstanceConstant'FSD/Content/Art/Environments/SpaceRig/Materials/Barrels/M_SpaceRig_BarrelRim.M_SpaceRig_BarrelRim'
+        MaterialSlotName = M_Drone_Metal03
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 62.265, 375.928, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=-1.87029, Y=-1.56287, Z=-27.7954 }
+    BoxExtent = { X=198.61, Y=14.5927, Z=48.0455 }
+    SphereRadius = 203.433
+}

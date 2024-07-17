@@ -1,0 +1,62 @@
+Materials[4] =
+{
+    Materials[0] = MaterialInstanceConstant'FSD/Content/Art/Environments/SpaceRig/Materials/Barrels/M_SpaceRig_Barrel02.M_SpaceRig_Barrel02'
+    Materials[1] = MaterialInstanceConstant'FSD/Content/LevelElements/Spacerig/Bar/DrinksDispenser/Materials/M_Mug_Generic_Material02.M_Mug_Generic_Material02'
+    Materials[2] = MaterialInstanceConstant'FSD/Content/LevelElements/Spacerig/Bar/DrinksDispenser/Materials/M_Mug_Generic_Material02.M_Mug_Generic_Material02'
+    Materials[3] = MaterialInstanceConstant'FSD/Content/LevelElements/Spacerig/Bar/DrinksDispenser/Materials/M_Mug_Generic_Material05.M_Mug_Generic_Material05'
+}
+SourceModels[0] = {}
+StaticMaterials[4] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'FSD/Content/Art/Environments/SpaceRig/Materials/Barrels/M_SpaceRig_Barrel02.M_SpaceRig_Barrel02'
+        MaterialSlotName = M_Drone_Metal01
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 106.694, 224.994, 0, 0 }
+        }
+    }
+    StaticMaterials[1] =
+    {
+        MaterialInterface = MaterialInstanceConstant'FSD/Content/LevelElements/Spacerig/Bar/DrinksDispenser/Materials/M_Mug_Generic_Material02.M_Mug_Generic_Material02'
+        MaterialSlotName = M_Drone_Metal02
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 108.119, 222.551, 0, 0 }
+        }
+    }
+    StaticMaterials[2] =
+    {
+        MaterialInterface = MaterialInstanceConstant'FSD/Content/LevelElements/Spacerig/Bar/DrinksDispenser/Materials/M_Mug_Generic_Material02.M_Mug_Generic_Material02'
+        MaterialSlotName = M_Drone_Metal03
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 104.82, 222.127, 0, 0 }
+        }
+    }
+    StaticMaterials[3] =
+    {
+        MaterialInterface = MaterialInstanceConstant'FSD/Content/LevelElements/Spacerig/Bar/DrinksDispenser/Materials/M_Mug_Generic_Material05.M_Mug_Generic_Material05'
+        MaterialSlotName = M_Drone_Rubber01
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 105.645, 221.255, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=1.90735e-06, Y=-7.62939e-06, Z=34.9751 }
+    BoxExtent = { X=23.6891, Y=23.0798, Z=34.9241 }
+    SphereRadius = 40.1675
+}

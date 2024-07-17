@@ -1,0 +1,134 @@
+Materials[10] =
+{
+    Materials[0] = MaterialInstanceConstant'FSD/Content/Art/Environments/SpaceRig/Materials/Forge/M_Forge_MetalLight.M_Forge_MetalLight'
+    Materials[1] = MaterialInstanceConstant'FSD/Content/Art/Environments/SpaceRig/Materials/Forge/M_Forge_MetalRust_02.M_Forge_MetalRust_02'
+    Materials[2] = MaterialInstanceConstant'FSD/Content/Art/Environments/SpaceRig/Materials/Forge/M_Forge_MetalRust_Yellow.M_Forge_MetalRust_Yellow'
+    Materials[3] = MaterialInstanceConstant'FSD/Content/Art/Environments/SpaceRig/Materials/Forge/M_Forge_MetalGreen.M_Forge_MetalGreen'
+    Materials[4] = MaterialInstanceConstant'FSD/Content/Art/Environments/SpaceRig/Materials/Forge/M_Forge_MetalBlue.M_Forge_MetalBlue'
+    Materials[5] = MaterialInstanceConstant'FSD/Content/Art/Environments/SpaceRig/Materials/Forge/M_Forge_EnergyLightRed.M_Forge_EnergyLightRed'
+    Materials[6] = MaterialInstanceConstant'FSD/Content/Art/Environments/SpaceRig/Materials/Forge/M_Forge_Details.M_Forge_Details'
+    Materials[7] = MaterialInstanceConstant'FSD/Content/Art/Environments/SpaceRig/Materials/Forge/M_Forge_MetalBlack.M_Forge_MetalBlack'
+    Materials[8] = MaterialInstanceConstant'FSD/Content/Art/Environments/SpaceRig/Materials/Forge/M_Forge_Buttons.M_Forge_Buttons'
+    Materials[9] = MaterialInstanceConstant'FSD/Content/Art/Environments/SpaceRig/Materials/Forge/M_Forge_MetalLight.M_Forge_MetalLight'
+}
+SourceModels[0] = {}
+StaticMaterials[10] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'FSD/Content/Art/Environments/SpaceRig/Materials/Forge/M_Forge_MetalLight.M_Forge_MetalLight'
+        MaterialSlotName = M_Forge_MetalLight
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 101.197, 14786.6, 0, 0 }
+        }
+    }
+    StaticMaterials[1] =
+    {
+        MaterialInterface = MaterialInstanceConstant'FSD/Content/Art/Environments/SpaceRig/Materials/Forge/M_Forge_MetalRust_02.M_Forge_MetalRust_02'
+        MaterialSlotName = M_Forge_MetalRust_02
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 102.1, 14854.6, 0, 0 }
+        }
+    }
+    StaticMaterials[2] =
+    {
+        MaterialInterface = MaterialInstanceConstant'FSD/Content/Art/Environments/SpaceRig/Materials/Forge/M_Forge_MetalRust_Yellow.M_Forge_MetalRust_Yellow'
+        MaterialSlotName = M_Forge_MetalRust_Yellow
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 97.888, 14748.2, 0, 0 }
+        }
+    }
+    StaticMaterials[3] =
+    {
+        MaterialInterface = MaterialInstanceConstant'FSD/Content/Art/Environments/SpaceRig/Materials/Forge/M_Forge_MetalGreen.M_Forge_MetalGreen'
+        MaterialSlotName = M_Forge_MetalGreen
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 102.271, 14829.5, 0, 0 }
+        }
+    }
+    StaticMaterials[4] =
+    {
+        MaterialInterface = MaterialInstanceConstant'FSD/Content/Art/Environments/SpaceRig/Materials/Forge/M_Forge_MetalBlue.M_Forge_MetalBlue'
+        MaterialSlotName = M_Forge_MetalBlue
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 103.078, 14504.2, 0, 0 }
+        }
+    }
+    StaticMaterials[5] =
+    {
+        MaterialInterface = MaterialInstanceConstant'FSD/Content/Art/Environments/SpaceRig/Materials/Forge/M_Forge_EnergyLightRed.M_Forge_EnergyLightRed'
+        MaterialSlotName = M_Forge_EnergyLightRed
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 99.0844, 15601.7, 0, 0 }
+        }
+    }
+    StaticMaterials[6] =
+    {
+        MaterialInterface = MaterialInstanceConstant'FSD/Content/Art/Environments/SpaceRig/Materials/Forge/M_Forge_Details.M_Forge_Details'
+        MaterialSlotName = M_Forge_Details
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 277.231, 14243.5, 0, 0 }
+        }
+    }
+    StaticMaterials[7] =
+    {
+        MaterialInterface = MaterialInstanceConstant'FSD/Content/Art/Environments/SpaceRig/Materials/Forge/M_Forge_MetalBlack.M_Forge_MetalBlack'
+        MaterialSlotName = M_Forge_MetalBlack
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 102.529, 13723.5, 0, 0 }
+        }
+    }
+    StaticMaterials[8] =
+    {
+        MaterialInterface = MaterialInstanceConstant'FSD/Content/Art/Environments/SpaceRig/Materials/Forge/M_Forge_Buttons.M_Forge_Buttons'
+        MaterialSlotName = M_Forge_Buttons
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 0, 0, 0, 0 }
+        }
+    }
+    StaticMaterials[9] =
+    {
+        MaterialInterface = MaterialInstanceConstant'FSD/Content/Art/Environments/SpaceRig/Materials/Forge/M_Forge_MetalLight.M_Forge_MetalLight'
+        MaterialSlotName = M_Forge_MetalLight
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 0, 0, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=48.2158, Y=-91.9743, Z=369.875 }
+    BoxExtent = { X=256.878, Y=175.644, Z=378.156 }
+    SphereRadius = 451.151
+}
