@@ -1,4 +1,6 @@
 # Kiterjesztett magyarítás / *HUN Localisation Ext.*
+![image](https://github.com/user-attachments/assets/4f91efdc-54f4-4583-85f8-8aaaea1e8fdd)
+
 
 *English version below.*
 
