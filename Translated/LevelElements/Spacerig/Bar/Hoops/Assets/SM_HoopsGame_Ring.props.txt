@@ -1,0 +1,86 @@
+Materials[6] =
+{
+    Materials[0] = MaterialInstanceConstant'FSD/Content/LevelElements/Spacerig/Bar/Hoops/Materials/M_SpaceRig_Hoops01.M_SpaceRig_Hoops01'
+    Materials[1] = MaterialInstanceConstant'FSD/Content/LevelElements/Spacerig/Bar/Hoops/Materials/M_SpaceRig_Hoops02.M_SpaceRig_Hoops02'
+    Materials[2] = MaterialInstanceConstant'FSD/Content/LevelElements/Spacerig/Bar/Hoops/Materials/M_SpaceRig_Hoops03.M_SpaceRig_Hoops03'
+    Materials[3] = MaterialInstanceConstant'FSD/Content/LevelElements/Spacerig/Bar/Hoops/Materials/M_SpaceRig_Hoops04.M_SpaceRig_Hoops04'
+    Materials[4] = MaterialInstanceConstant'FSD/Content/LevelElements/Spacerig/Bar/Hoops/Materials/M_SpaceRig_Hoops05.M_SpaceRig_Hoops05'
+    Materials[5] = MaterialInstanceConstant'FSD/Content/LevelElements/Spacerig/Bar/Hoops/Materials/M_SpaceRig_Hoops_Light.M_SpaceRig_Hoops_Light'
+}
+SourceModels[0] = {}
+StaticMaterials[6] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'FSD/Content/LevelElements/Spacerig/Bar/Hoops/Materials/M_SpaceRig_Hoops01.M_SpaceRig_Hoops01'
+        MaterialSlotName = M_SpaceRig_Wall01
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 105.65, 1795.75, 0, 0 }
+        }
+    }
+    StaticMaterials[1] =
+    {
+        MaterialInterface = MaterialInstanceConstant'FSD/Content/LevelElements/Spacerig/Bar/Hoops/Materials/M_SpaceRig_Hoops02.M_SpaceRig_Hoops02'
+        MaterialSlotName = M_SpaceRig_Wall02
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 105.712, 1782.63, 0, 0 }
+        }
+    }
+    StaticMaterials[2] =
+    {
+        MaterialInterface = MaterialInstanceConstant'FSD/Content/LevelElements/Spacerig/Bar/Hoops/Materials/M_SpaceRig_Hoops03.M_SpaceRig_Hoops03'
+        MaterialSlotName = M_SpaceRig_Wall03
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 102.335, 1775.96, 0, 0 }
+        }
+    }
+    StaticMaterials[3] =
+    {
+        MaterialInterface = MaterialInstanceConstant'FSD/Content/LevelElements/Spacerig/Bar/Hoops/Materials/M_SpaceRig_Hoops04.M_SpaceRig_Hoops04'
+        MaterialSlotName = M_SpaceRig_Metal01
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 104.118, 1804.74, 0, 0 }
+        }
+    }
+    StaticMaterials[4] =
+    {
+        MaterialInterface = MaterialInstanceConstant'FSD/Content/LevelElements/Spacerig/Bar/Hoops/Materials/M_SpaceRig_Hoops05.M_SpaceRig_Hoops05'
+        MaterialSlotName = M_SpaceRig_Metal02
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 105.533, 1824.03, 0, 0 }
+        }
+    }
+    StaticMaterials[5] =
+    {
+        MaterialInterface = MaterialInstanceConstant'FSD/Content/LevelElements/Spacerig/Bar/Hoops/Materials/M_SpaceRig_Hoops_Light.M_SpaceRig_Hoops_Light'
+        MaterialSlotName = M_SpaceRig_Light01
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 163.745, 1764.75, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=0, Y=-21.4122, Z=5.13023 }
+    BoxExtent = { X=171.883, Y=170.553, Z=27.1477 }
+    SphereRadius = 204.173
+}

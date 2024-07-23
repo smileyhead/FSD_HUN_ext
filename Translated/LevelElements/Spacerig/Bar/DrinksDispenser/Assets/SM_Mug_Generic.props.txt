@@ -1,0 +1,50 @@
+Materials[3] =
+{
+    Materials[0] = MaterialInstanceConstant'FSD/Content/LevelElements/Spacerig/Bar/DrinksDispenser/Materials/M_Mug_Generic_Material01.M_Mug_Generic_Material01'
+    Materials[1] = MaterialInstanceConstant'FSD/Content/LevelElements/Spacerig/Bar/DrinksDispenser/Materials/M_Mug_Generic_Emblem01.M_Mug_Generic_Emblem01'
+    Materials[2] = MaterialInstanceConstant'FSD/Content/LevelElements/Spacerig/Bar/DrinksDispenser/Materials/M_Mug_Generic_Emblem01.M_Mug_Generic_Emblem01'
+}
+SourceModels[0] = {}
+StaticMaterials[3] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'FSD/Content/LevelElements/Spacerig/Bar/DrinksDispenser/Materials/M_Mug_Generic_Material01.M_Mug_Generic_Material01'
+        MaterialSlotName = 03 - Default
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 91.3562, 81.3341, 0, 0 }
+        }
+    }
+    StaticMaterials[1] =
+    {
+        MaterialInterface = MaterialInstanceConstant'FSD/Content/LevelElements/Spacerig/Bar/DrinksDispenser/Materials/M_Mug_Generic_Emblem01.M_Mug_Generic_Emblem01'
+        MaterialSlotName = 03 - Default_ncl1_1
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 92.2006, 81.8842, 0, 0 }
+        }
+    }
+    StaticMaterials[2] =
+    {
+        MaterialInterface = MaterialInstanceConstant'FSD/Content/LevelElements/Spacerig/Bar/DrinksDispenser/Materials/M_Mug_Generic_Emblem01.M_Mug_Generic_Emblem01'
+        MaterialSlotName = 03 - Default_ncl1_2
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 95.1454, 81.849, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=-4.14875, Y=-9.53674e-07, Z=10.5362 }
+    BoxExtent = { X=14.1493, Y=10.5514, Z=10.5435 }
+    SphereRadius = 17.0585
+}

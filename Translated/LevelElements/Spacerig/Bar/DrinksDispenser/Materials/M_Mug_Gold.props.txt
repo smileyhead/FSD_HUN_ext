@@ -1,0 +1,232 @@
+Parent = MaterialInstanceConstant'FSD/Content/Character/Vanity2/Armor/Paintjobs_Loose/M_Scout_PJ_Supporter.M_Scout_PJ_Supporter'
+ScalarParameterValues[17] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=DIFF || TexScale - Armor2 }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=DIFF || TexBasepoint - Armor2 }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=DIFF || TexContrast - Armor2 }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=ROUGH || Metallic - Armor2 }
+        ParameterValue = 0.9
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=ROUGH || Specular - Armor2 }
+        ParameterValue = 5
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=ROUGH || TexScale - Armor2 }
+        ParameterValue = 0.1
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=ROUGH || TexBasepoint - Armor2 }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo = { Name=ROUGH || TexContrast - Armor2 }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=ROUGH || Specular - Metal1 }
+        ParameterValue = 0.5
+        ParameterName = None
+    }
+    ScalarParameterValues[9] =
+    {
+        ParameterInfo = { Name=ROUGH || Metallic - Metal2 }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[10] =
+    {
+        ParameterInfo = { Name=ROUGH || Specular - Metal2 }
+        ParameterValue = 0.740952
+        ParameterName = None
+    }
+    ScalarParameterValues[11] =
+    {
+        ParameterInfo = { Name=ROUGH || TexScale - Metal2 }
+        ParameterValue = 0.05
+        ParameterName = None
+    }
+    ScalarParameterValues[12] =
+    {
+        ParameterInfo = { Name=ROUGH || TexBasepoint - Metal2 }
+        ParameterValue = 2.52522
+        ParameterName = None
+    }
+    ScalarParameterValues[13] =
+    {
+        ParameterInfo = { Name=ROUGH || TexContrast - Metal2 }
+        ParameterValue = 0.190476
+        ParameterName = None
+    }
+    ScalarParameterValues[14] =
+    {
+        ParameterInfo = { Name=DIFF || TexScale - Suit1 }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[15] =
+    {
+        ParameterInfo = { Name=DIFF || TexContrast - Suit1 }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[16] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[2] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=DIFF || Texture - Armor2 }
+        ParameterValue = Texture2D'FSD/Content/Art/Textures/BaseTextures/T_Base_Grunge001.T_Base_Grunge001'
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=DIFF || Texture - Suit1 }
+        ParameterValue = Texture2D'FSD/Content/Art/Textures/BaseTextures/T_Base_Tiger01.T_Base_Tiger01'
+        ParameterName = None
+    }
+}
+VectorParameterValues[10] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=DIFF || TintPrimary - Armor2 }
+        ParameterValue = { R=0.242709, G=0.149463, B=0.121101, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=DIFF || TintSecondary - Armor2 }
+        ParameterValue = { R=0.230208, G=0.055377, B=0.026617, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=DIFF || TintPrimary - Metal1 }
+        ParameterValue = { R=0.366666, G=0.364, B=0.333186, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = { Name=DIFF || TintPrimary - Metal2 }
+        ParameterValue = { R=0.279167, G=0.191751, B=0.132604, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = { Name=DIFF || TintPrimary - Visor }
+        ParameterValue = { R=0.005553, G=0.007283, B=0.010417, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[5] =
+    {
+        ParameterInfo = { Name=DIFF || TintPrimary - Leather }
+        ParameterValue = { R=0.1625, G=0.038032, B=0.005448, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[6] =
+    {
+        ParameterInfo = { Name=DIFF || TintPrimary - Detail1 }
+        ParameterValue = { R=0.072917, G=0.010687, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[7] =
+    {
+        ParameterInfo = { Name=DIFF || TintPrimary - Detail2 }
+        ParameterValue = { R=0.177083, G=0.144736, B=0.097743, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[8] =
+    {
+        ParameterInfo = { Name=DIFF || TintPrimary - Suit1 }
+        ParameterValue = { R=0.879167, G=0.866009, B=0.752044, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[9] =
+    {
+        ParameterInfo = { Name=DIFF || TintSecondary - Suit1 }
+        ParameterValue = { R=1, G=0.582027, B=0.158866, A=1 }
+        ParameterName = None
+    }
+}
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0.3333
+}
+StaticParameters =
+{
+    StaticSwitchParameters[2] =
+    {
+        StaticSwitchParameters[0] =
+        {
+            Value = false
+            ParameterInfo = { Name=SWITCH || Fresnel Darken - Armor2 }
+            bOverride = true
+        }
+        StaticSwitchParameters[1] =
+        {
+            Value = true
+            ParameterInfo = { Name=SWITCH || Texture Toggle - Armor2 }
+            bOverride = true
+        }
+    }
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+RuntimeVirtualTextureParameterValues[0] = {}
+FontParameterValues[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[1] =
+{
+    TextureStreamingData[0] =
+    {
+        SamplingScale = 4
+        UVChannelIndex = 0
+        TextureName = T_Noise01
+    }
+}

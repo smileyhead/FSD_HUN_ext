@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = MaterialInstanceConstant'FSD/Content/Character/Vanity2/Headwear/M_Vanity_Headwear_XmasHat.M_Vanity_Headwear_XmasHat'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'FSD/Content/Character/Vanity2/Headwear/M_Vanity_Headwear_XmasHat.M_Vanity_Headwear_XmasHat'
+        MaterialSlotName = Mat1_Armor
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 107.68, 54.2797, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=1.60818, Y=0, Z=6.27762 }
+    BoxExtent = { X=11.5729, Y=11.679, Z=7.73066 }
+    SphereRadius = 15.5169
+}
