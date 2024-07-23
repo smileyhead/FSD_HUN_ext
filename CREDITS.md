@@ -15,5 +15,6 @@ Az alapjáték betűtípusainak kibővítése / *Editing the base game's fonts*
 
 ### Egyéb betűtípusok / *Other fonts*
 - [Bungee](https://fonts.google.com/specimen/Bungee)
+- [Farsan](https://fonts.google.com/specimen/Farsan)
 - [Poetsen One](https://fonts.google.com/specimen/Poetsen+One)
 - [Teko](https://fonts.google.com/specimen/Teko)
