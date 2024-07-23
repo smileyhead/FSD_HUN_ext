@@ -14,4 +14,5 @@ Az alapjáték betűtípusainak kibővítése / *Editing the base game's fonts*
 - Rift Soft
 
 ### Egyéb betűtípusok / *Other fonts*
+- [Bungee](https://fonts.google.com/specimen/Bungee)
 - [Teko](https://fonts.google.com/specimen/Teko)
