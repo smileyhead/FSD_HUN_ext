@@ -18,3 +18,4 @@ Az alapjáték betűtípusainak kibővítése / *Editing the base game's fonts*
 - [Farsan](https://fonts.google.com/specimen/Farsan)
 - [Poetsen One](https://fonts.google.com/specimen/Poetsen+One)
 - [Teko](https://fonts.google.com/specimen/Teko)
+- [UnifrakturMaguntia](https://fonts.google.com/specimen/UnifrakturMaguntia)
