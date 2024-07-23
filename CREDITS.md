@@ -13,4 +13,4 @@ Az alapjáték betűtípusainak kibővítése / *Editing the base game's fonts*
 - Heavitas
 
 ### Egyéb betűtípusok / *Other fonts*
-W.I.P.
+- [Teko](https://fonts.google.com/specimen/Teko)
