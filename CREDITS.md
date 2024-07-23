@@ -11,6 +11,7 @@ Az alapjáték betűtípusainak kibővítése / *Editing the base game's fonts*
 - Acumin Pro
 - Carbon
 - Heavitas
+- Rift Soft
 
 ### Egyéb betűtípusok / *Other fonts*
 - [Teko](https://fonts.google.com/specimen/Teko)
