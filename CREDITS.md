@@ -14,6 +14,7 @@ Az alapjáték betűtípusainak kibővítése / *Editing the base game's fonts*
 - Rift Soft
 
 ### Egyéb betűtípusok / *Other fonts*
+- [Asul](https://fonts.google.com/specimen/Asul)
 - [Bungee](https://fonts.google.com/specimen/Bungee)
 - [Courgette](https://fonts.google.com/specimen/Courgette)
 - [Farsan](https://fonts.google.com/specimen/Farsan)
