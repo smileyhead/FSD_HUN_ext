@@ -14,11 +14,11 @@ Az alapjáték betűtípusainak kibővítése / *Editing the base game's fonts*
 - Rift Soft
 
 ### Egyéb betűtípusok / *Other fonts*
-- [Asul](https://fonts.google.com/specimen/Asul)
 - [Bungee](https://fonts.google.com/specimen/Bungee)
 - [Courgette](https://fonts.google.com/specimen/Courgette)
 - [Farsan](https://fonts.google.com/specimen/Farsan)
 - [Poetsen One](https://fonts.google.com/specimen/Poetsen+One)
+- [Saira Extra Condensed](https://fonts.google.com/specimen/Saira+Extra+Condensed)
 - [Teko](https://fonts.google.com/specimen/Teko)
 - [UnifrakturMaguntia](https://fonts.google.com/specimen/UnifrakturMaguntia)
 - [Urbanist](https://fonts.google.com/specimen/Urbanist)
