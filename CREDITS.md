@@ -14,6 +14,7 @@ Az alapjáték betűtípusainak kibővítése / *Editing the base game's fonts*
 - Rift Soft
 
 ### Egyéb betűtípusok / *Other fonts*
+- [Arbutus](https://fonts.google.com/specimen/Arbutus)
 - [Bungee](https://fonts.google.com/specimen/Bungee)
 - [Courgette](https://fonts.google.com/specimen/Courgette)
 - [Farsan](https://fonts.google.com/specimen/Farsan)
