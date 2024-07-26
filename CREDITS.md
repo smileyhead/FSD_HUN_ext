@@ -19,6 +19,7 @@ Az alapjáték betűtípusainak kibővítése / *Editing the base game's fonts*
 - [Courgette](https://fonts.google.com/specimen/Courgette)
 - [Farsan](https://fonts.google.com/specimen/Farsan)
 - [Kameron](https://fonts.google.com/specimen/Kameron)
+- [Kaushan Script](https://fonts.google.com/specimen/Kaushan+Script)
 - [Poetsen One](https://fonts.google.com/specimen/Poetsen+One)
 - [Saira Extra Condensed](https://fonts.google.com/specimen/Saira+Extra+Condensed)
 - [Teko](https://fonts.google.com/specimen/Teko)
