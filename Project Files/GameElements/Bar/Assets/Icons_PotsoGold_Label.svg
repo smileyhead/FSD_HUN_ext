@@ -25,14 +25,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.57521479"
-     inkscape:cx="384.2043"
-     inkscape:cy="553.7062"
+     inkscape:cx="384.20431"
+     inkscape:cy="551.96773"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1358"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1" /><g
+     inkscape:current-layer="g1" /><g
      inkscape:groupmode="layer"
      inkscape:label="Image"
      id="g1"><image
@@ -89,7 +89,8 @@
      x="486.88968"
      y="903.08099"
      id="text5"
-     transform="matrix(1.0515842,0.16104907,0,0.9509462,0,0)"><tspan
+     transform="matrix(1.0515842,0.16104907,0,0.9509462,0,0)"
+     inkscape:label="bottom text"><tspan
        sodipodi:role="line"
        id="tspan5"
        x="486.88968"
