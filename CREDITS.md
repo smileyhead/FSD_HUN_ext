@@ -27,3 +27,4 @@ Az alapjáték betűtípusainak kibővítése / *Editing the base game's fonts*
 - [Teko](https://fonts.google.com/specimen/Teko)
 - [UnifrakturMaguntia](https://fonts.google.com/specimen/UnifrakturMaguntia)
 - [Urbanist](https://fonts.google.com/specimen/Urbanist)
+- [WC Rhesus B Bta](https://www.dafont.com/wc-rhesus-b-bta.font)
