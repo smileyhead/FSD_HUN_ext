@@ -25,7 +25,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="4.6017183"
-     inkscape:cx="136.47076"
+     inkscape:cx="136.36211"
      inkscape:cy="121.58502"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
@@ -44,7 +44,7 @@
        x="0"
        y="-1.4210855e-14"
        inkscape:label="original"
-       style="opacity:0.5" /><image
+       style="display:none;opacity:0.5" /><image
        width="256"
        height="256"
        preserveAspectRatio="none"
