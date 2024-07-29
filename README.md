@@ -8,7 +8,7 @@ Készítette a játék hivatalos, felelős magyar fordítója. Ezzel a moddal sz
 
 A mod tartalma:
 - **Javítások:** Javított betűtípusok (Ő/Ű-vel kibővítve) Holy Inquisitor jóvoltából.
-- **Lefordított/feliratozott grafikák:** söremblémák, táblák, transzparensek, poszterek, tetoválások, Dóri cetlije, a szóköz billentyűgrafikája, kredit/TP-grafikák, időszakos emblémák, *Bányászok kézikönyve*-logó és még sok más!
+- **Lefordított/feliratozott grafikák:** söremblémák, táblák, transzparensek, poszterek, tetoválások, Dóri cetlije, a szóköz billentyűgrafikája, TP-grafikák, időszakos emblémák, *Bányászok kézikönyve*-logó és még sok más!
 
 *A felhasznált betűtípusok az alapjátékban előfordulóak, illetve a Google Fontsról és a Dafontról származó, szabad felhasználású betűtípusok. A teljes listát [a stáblistán](/CREDITS.md) olvashatod.*
 
@@ -17,6 +17,6 @@ A mod tartalma:
 
 *Contents:*
 - ***Fixes:** Improved fonts (added the Ő/Ű characters) courtesy of Holy Inquisitor.*
-- ***Translated/subtitled graphics:** beer emblems, signs, banners, posters, tattoos, Dotty's post-it note, the space key's graphic, credit/XP-graphics, seasonal logos,* Miners' Manual *logo, and lots more!*
+- ***Translated/subtitled graphics:** beer emblems, signs, banners, posters, tattoos, Dotty's post-it note, the space key's graphic, XP-graphics, seasonal logos,* Miners' Manual *logo, and lots more!*
 
 Fonts used are those already in the game, as well as free fonts from Google Fonts and Dafont. For an exhaustive list, see [the credits](/CREDITS.md).
